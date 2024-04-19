@@ -1,7 +1,7 @@
 # Data Science Fundamentals
 My study into fundamentals of Data Science using python, with numpy, matplotlib, pandas and scikitlearn. 
 
-So far I've covered:
+Subjects
 * 1 - Basic regression techniques
     * 1.1 - Simple Linear Regression - Done 
     * 1.2 - Multilinear Regression - Done
@@ -12,23 +12,21 @@ So far I've covered:
     * 2.2 - Logistic Regression 3+ classes - Todo
     * 2.3 - Classification with kNN - Done
 * 3 - Model training and validation
-    * 3.1 - Dealing with missing variables 
-    * 3.1 - Accuracy and precision quantifiers 
-    * 3.2 - Model selection: Splitting dataset into training, validation, and test
-    * 3.3 - Imputing
-    * 3.4 - Being careful with the data: avoid collinearity, feature scaling, multicollinearity
-    * Standardizing https://machinelearningcompass.com/dataset_optimization/standardization/
-    * 3.5 feature importance graph
-    * 3.6 - Regularized Linear Regression - LASSO and RIDGE; gradient descent
-    * Regularized Logistic Regression
-    * ROC curves
+    * 3.1 - What is a good model? - code example missing
+    * 3.2 - How good are the model predictions? - code example missing
+    * 3.3 - How reliable are the model parameters? - code example missing
+    * 3.4 - How to select the best model? - code example missing
+    * 3.5 - Hypothesis testing - done
+    * 3.6 - Regularization - Linear & Logistic Regressions - code example missing
+* 4 - Dealing with real world data 
+    * 4.1 - Dealing with missing variables, imputing - Done
+    * 4.2 - Being careful with the data: avoid collinearity, feature scaling, multicollinearity, standardizing https://machinelearningcompass.com/dataset_optimization/standardization/
+* 5 - Some basics of statistics
+    * 5.1 - Central Limit theorem - code example missing
+ 
 
-
-
-Learning stuff I want to include:
-* Pandas:
-    * Cleaning data
-    * Comparisons of merge types
-    
-Bigger projects I want to include:
-
+References I used:
+1. HarvardX CS109x course - Introduction to Data Science with Python (via edX)
+2. An Introduction to Statistical Learning, With Applications in Python (ISLP)
+3. Data Science and Machine Learning Mathematical and Statistical Methods by Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, Radislav Vaisman
+4. Sklearn's documentation is pretty helpful also!
